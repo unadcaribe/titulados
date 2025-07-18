@@ -5,7 +5,10 @@
 
 function validar(a,b)
 {
-	    
+           if(a == "3041" && b == "1116861655")
+	{
+		document.location= "3041.html";
+	} 	    
           if(a == "107124" && b == "1116861655")
 	{
 		document.location= "107124.html";
