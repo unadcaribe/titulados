@@ -1,12 +1,17 @@
 // JavaScript Document
-//Desarrollado por Elias David Niño Ruiz
+//Desarrollado por Elias David NiÃ±o Ruiz
 
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 function validar(a,b)
 {
 	    
-
+          if(a == "107124" && b == "1116861655")
+	{
+		document.location= "107124.html";
+	} 
+	 
+	
         if(a == "15887" && b == "1116504502")
 	{
 		document.location= "15887.html";
