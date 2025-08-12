@@ -5,7 +5,41 @@
 
 function validar(a,b)
 {
-           if(a == "3041" && b == "1116861655")
+    if(a == "1135" && b == "88034106")
+	{
+		document.location= "1135.html";
+	} 	    
+          if(a == "107128" && b == "88034106")
+	{
+		document.location= "107128.html";
+	} 
+	
+	
+	
+	if(a == "1151" && b == "1116863595")
+	{
+		document.location= "1151.html";
+	} 	    
+          if(a == "107137" && b == "1116863595")
+	{
+		document.location= "107137.html";
+	}  
+	
+	
+	
+	if(a == "1142" && b == "88033756")
+	{
+		document.location= "1142.html";
+	} 	    
+          if(a == "107132" && b == "88033756")
+	{
+		document.location= "107132.html";
+	}  
+	
+		
+	    
+	
+	   if(a == "3041" && b == "1116861655")
 	{
 		document.location= "3041.html";
 	} 	    
@@ -99,4 +133,5 @@ function validar(a,b)
  
      
 }
+
 
