@@ -5,7 +5,7 @@
 
 function validar(a,b)
 {
-   if(a == "15886" && b == "1046399856)
+   if(a == "15886" && b == "1046399856")
 	{
 		document.location= "15886.html";
 	} 	    
@@ -144,6 +144,7 @@ function validar(a,b)
  
      
 }
+
 
 
 
