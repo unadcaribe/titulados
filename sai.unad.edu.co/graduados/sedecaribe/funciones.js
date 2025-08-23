@@ -1,5 +1,5 @@
 // JavaScript Document
-//Desarrollado por Elias David Niño Ruiz
+//Desarrollado por Elias David NiÃ±o Ruiz
 
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,6 +17,37 @@ function validar(a,b)
 	}
 
 
+
+ if(a == "1135" && b == "88034106")
+	{
+		document.location= "1135.html";
+	} 
+	 
+       	
+        if(a == "107128" && b == "88034106")
+	{
+		document.location= "107128.html";
+	}
+
+
+
+
+ if(a == "15886" && b == "1046399856")
+	{
+		document.location= "15886.html";
+	} 
+	 
+       	
+        if(a == "456677" && b == "1046399856")
+	{
+		document.location= "456677.html";
+	}
+
+
+
+
+	
+	
 
 
 
@@ -106,4 +137,5 @@ function validar(a,b)
  
      
 }
+
 
