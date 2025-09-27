@@ -6,6 +6,23 @@
 function validar(a,b)
 
 {
+   if(a == "1163" && b == "1007646510")
+	  {
+		document.location= "1163.html";
+	  } 
+	     	
+    if(a == "107143" && b == "1007646510")
+	  {
+		document.location= "107143.html";
+	}
+
+
+
+
+
+
+
+{
    if(a == "651" && b == "72131090")
 	  {
 		document.location= "651.html";
@@ -177,6 +194,7 @@ function validar(a,b)
  
      
 }
+
 
 
 
