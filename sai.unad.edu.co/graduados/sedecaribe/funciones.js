@@ -5,7 +5,22 @@
 
 function validar(a,b)
 {
-   if(a == "3492" && b == "1123625464")
+
+	if(a == "028" && b == "22868772")
+	  {
+		document.location= "028.html";
+	  } 
+
+
+    if(a == "46183" && b == "22868772")
+	  {
+		document.location= "46183.html";
+	  } 
+
+	
+	
+	
+	if(a == "3492" && b == "1123625464")
 	  {
 		document.location= "3492.html";
 	  } 
